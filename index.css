@@ -1,0 +1,99 @@
+body{
+    background-color:lavenderblush;
+    font-size: 1.25em;
+    margin: 0;
+    text-align: center;
+    font-family: Sedgwick Ave Display 27px;
+}
+.pic{
+    height: 100px;
+    width: 100px;
+}
+
+
+h1{
+    font-size: 2rem;
+    margin: 50px auto 0 auto;
+    font-family:Caveat ;
+    color:gray;
+}
+
+
+.bio{
+    width: 50%;
+    margin: auto;
+    
+}
+h2{
+    color:grey;
+    font-family: Caveat;
+    font-size: 2.8rem;
+}
+h3{
+    color: rgb(88, 13, 96);
+    font-size: 1.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.top{
+    background-color:grey;
+    position: relative;
+    padding: 600x;
+}
+.logo{
+    position: relative;
+    height: 250px;
+    
+    bottom: 30%;
+    
+}
+
+
+
+
+.button{
+    background:grey;
+    background-image: -webkit-linear-gradient(top,grey, #6a2a91);
+    background-image: -moz-linear-gradient(top,grey, #6a2a91);
+    background-image: -ms-linear-gradient(top,grey, #6a2a91);
+    background-image: -o-linear-gradient(top, grey, #6a2a91);
+    background-image: linear-gradient(to bottom,grey, #6a2a91);
+    -webkit-border-radius: 25;
+    -moz-border-radius: 25;
+    border-radius: 25px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 0px 20px 0px 20px;
+    text-decoration: none;
+  }
+  .button:hover{
+    background: #10518f;
+    background-image: -webkit-linear-gradient(top, #10518f, #3f10e8);
+    background-image: -moz-linear-gradient(top, #10518f, #3f10e8);
+    background-image: -ms-linear-gradient(top, #10518f, #3f10e8);
+    background-image: -o-linear-gradient(top, #10518f, #3f10e8);
+    background-image: linear-gradient(to bottom, #10518f, #3f10e8);
+    text-decoration: none;
+  }
+  .bottom{
+    background-color:grey;
+    padding: 30px;
+
+}
+.link-portion{
+    margin: auto 20px;
+    text-decoration: none;
+    color: #000000;
+
+}
+.link-portion:hover{
+    color: #E4F9F5;
+   }
+
+
+.utsavi{
+    height: 200px;
+    width:400px;
+
+}
